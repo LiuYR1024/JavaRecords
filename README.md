@@ -1,3 +1,3 @@
 # JavaRecords
 Learning records about Java
-- DefaultForChar:测试Java中char类型的默认值
+- DefaultForChar.java：测试Java中char类型的默认值
