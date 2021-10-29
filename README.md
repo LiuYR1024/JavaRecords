@@ -4,3 +4,4 @@ Learning records about Java
 - DataTypeCnversion.java：测试Java中混合数据类型运算；验证编译期不进行数据运算
 - LogicalOperator.java：测试java中逻辑与&和短路与&&的区别
 - AssignmentOperator.java：测试java中i+=10；和i=i+10；的区别
+- KeyInput.java：测试java中从键盘输入字符串或整型数字到工作区
