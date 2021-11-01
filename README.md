@@ -5,3 +5,5 @@ Learning records about Java
 - LogicalOperator.java：测试java中逻辑与&和短路与&&的区别
 - AssignmentOperator.java：测试java中i+=10；和i=i+10；的区别
 - KeyInput.java：测试java中从键盘输入字符串或整型数字到工作区
+- IsLeapYear.java：输入年份，返回是否为闰年的判断结果
+- CalculateBodyMassIndex.java：输入身高、体重，返回体重指数BMI和评估结果
