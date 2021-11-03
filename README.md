@@ -8,3 +8,4 @@ Learning records about Java
 - IsLeapYear.java：输入年份，返回是否为闰年的判断结果
 - CalculateBodyMassIndex.java：输入身高、体重，返回体重指数BMI和评估结果
 - EvaluateScore.java：输入float类型分数数值，返回成绩评定结果
+- TestFor.java：接收输入数据dayNum，返回1+2+4+...+2^(dayNum-1)的计算结果
