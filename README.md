@@ -10,3 +10,4 @@ Learning records about Java
 - EvaluateScore.java：输入float类型分数数值，返回成绩评定结果
 - TestFor.java：接收输入数据dayNum，返回1+2+4+...+2^(dayNum-1)的计算结果
 - IsPrimeNumber.java：逐步改进使用三种方法，输出3-1000之间的素数，每4个成一行
+- MethodTest.java：利用方法计算并输出两数之和
