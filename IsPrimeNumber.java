@@ -2,6 +2,7 @@
 代码功能;找出3-1000之间的素数，每4个换一行
 日期：2021.11.4
 作者lliuyr_1024@163.com
+更新：2021.11.5 当已判断为合数时，跳出循环
 */
 class IsPrimeNumber 
 {
@@ -19,6 +20,7 @@ class IsPrimeNumber
 				if(0==i%j)            //存在非1和自身的因数
 				{
 					flag=false;
+					break;
 				}
 			}
 			if(flag)                  //是素数，输出格式
@@ -49,6 +51,7 @@ class IsPrimeNumber
 				if(0==i%j)
 				{
 					flag=false;
+					break;
 				}
 			}
 			if(flag)
@@ -78,6 +81,7 @@ class IsPrimeNumber
 				if(0==(i-1)%j)
 				{
 					flag=false;
+					break;
 				}
 			}
 			if(flag)
@@ -100,6 +104,7 @@ class IsPrimeNumber
 				if(0==(i+1)%j)
 				{
 					flag1=false;
+					break;
 				}
 			}
 			if(flag1)
