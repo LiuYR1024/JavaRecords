@@ -11,3 +11,4 @@ Learning records about Java
 - TestFor.java：接收输入数据dayNum，返回1+2+4+...+2^(dayNum-1)的计算结果
 - IsPrimeNumber.java：逐步改进使用三种方法，输出3-1000之间的素数，每4个成一行
 - MethodTest.java：利用方法计算并输出两数之和
+- MethodTest.java：测试java方法中的return语句
