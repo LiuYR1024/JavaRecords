@@ -12,3 +12,5 @@ Learning records about Java
 - IsPrimeNumber.java：逐步改进使用三种方法，输出3-1000之间的素数，每4个成一行
 - MethodTest.java：利用方法计算并输出两数之和
 - MethodTest1.java：测试java方法中的return语句
+- Overload.java：测试java中的方法重载机制
+
