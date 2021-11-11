@@ -13,4 +13,6 @@ Learning records about Java
 - MethodTest.java：利用方法计算并输出两数之和
 - MethodTest1.java：测试java方法中的return语句
 - Overload.java：测试java中的方法重载机制
+- Recursion.java：利用迭代求解1到n的累加和
+- Student.java：创建学生类
 
