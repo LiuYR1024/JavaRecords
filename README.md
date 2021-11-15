@@ -15,5 +15,7 @@ Learning records about Java
 - Overload.java：测试java中的方法重载机制
 - Recursion.java：利用迭代求解1到n的累加和
 - Student.java：创建学生类
-- Student.class：学生类的字节码文件
+- Seat.java：创建座位类
+- Teacher.java：创建教师类
 - ObjectTest.java：测试java中对象的创建和使用
+- ObjestTest1.java：测试java对象创建时多重使用自定义类引用的情况下，成员变量的访问形式；测试两个有关系的对象之间的访问形式
