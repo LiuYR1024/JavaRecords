@@ -13,4 +13,6 @@ class Student
 	String name;    //姓名
 	Boolean sex;    //性别
 	int age;        //年龄
+	Seat seat;      //座位
+	Teacher teacher;      //导师
 }
