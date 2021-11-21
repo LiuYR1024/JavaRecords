@@ -19,3 +19,4 @@ Learning records about Java
 - Teacher.java：创建教师类
 - ObjectTest.java：测试java中对象的创建和使用
 - ObjestTest1.java：测试java对象创建时多重使用自定义类引用的情况下，成员变量的访问形式；测试两个有关系的对象之间的访问形式
+- Millionaire.java：计算复利达到预期所需要的年份
