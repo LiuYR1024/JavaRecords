@@ -23,3 +23,4 @@ Learning records about Java
 - Encapsulation.java：测试java中的封装
 - Constructor.java：测试java中的构造函数
 - ThisTest.java：测试java中的this，测试java中各种情况下方法的调用方式
+- StaticTest.java：测试Java中的static关键字
