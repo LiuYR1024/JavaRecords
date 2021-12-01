@@ -24,3 +24,5 @@ Learning records about Java
 - Constructor.java：测试java中的构造函数
 - ThisTest.java：测试java中的this，测试java中各种情况下方法的调用方式
 - StaticTest.java：测试Java中的static关键字
+- Pupil.java：创建小学生类，继承至学生类
+- ExtendsTest：测试java中的继承和方法重写
