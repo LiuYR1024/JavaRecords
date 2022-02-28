@@ -27,3 +27,4 @@ Learning records about Java
 - Pupil.java：创建小学生类，继承至学生类
 - ExtendsTest：测试java中的继承和方法重写
 - PolymorphismTest.java：测试java中的多态机制
+- TestThisForConstructor.java：测试java中的this在构造函数时的使用，测试java中构造函数之间的相互调用
