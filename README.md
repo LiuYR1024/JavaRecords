@@ -30,3 +30,6 @@ Learning records about Java
 - TestThisForConstructor.java：测试java中的this在构造函数时的使用，测试java中构造函数之间的相互调用
 - TestSuper.java：测试java中的super()
 - TestSuper01.java：测试java中的super.
+- Homework01.java：模拟汽车加减速
+- Homework02.java：模拟计算器
+
