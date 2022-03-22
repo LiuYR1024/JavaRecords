@@ -32,4 +32,5 @@ Learning records about Java
 - TestSuper01.java：测试java中的super.
 - Homework01.java：模拟汽车加减速
 - Homework02.java：模拟计算器
+- TestFinal01.java：测试java中的final关键字
 
