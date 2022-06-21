@@ -35,4 +35,5 @@ Learning records about Java
 - TestFinal01.java：测试java中的final关键字
 - TestAbstract01.java：测试java中的abstract关键字
 - TestInterface01.java：测试java中的interface关键字
+- Interface01.java：测试java中接口的基本语法
 
