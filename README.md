@@ -36,4 +36,5 @@ Learning records about Java
 - TestAbstract01.java：测试java中的abstract关键字
 - TestInterface01.java：测试java中的interface关键字
 - Interface01.java：测试java中接口的基本语法
+- myStack.java：一维数组模拟栈的数据结构，带测试
 
