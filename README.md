@@ -38,4 +38,5 @@ Learning records about Java
 - Interface01.java：测试java中接口的基本语法
 - myStack.java：一维数组模拟栈的数据结构，带测试
 - hotelManagement.java：模拟酒店管理系统，可实现订房，退房，打印酒店房间信息
+- ArraystTest.java：利用Arrays中的方法实现元素查找
 
