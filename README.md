@@ -40,4 +40,5 @@ Learning records about Java
 - hotelManagement.java：模拟酒店管理系统，可实现订房，退房，打印酒店房间信息
 - ArraystTest.java：利用Arrays中的方法实现元素查找
 - OverrideEquals.java：重写equals
+- ExceptionTest.java：throw测试1
 
