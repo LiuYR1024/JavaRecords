@@ -41,4 +41,4 @@ Learning records about Java
 - ArraystTest.java：利用Arrays中的方法实现元素查找
 - OverrideEquals.java：重写equals
 - ExceptionTest.java：throw测试1
-
+- RandomTest.java：Generate five different random numbers
