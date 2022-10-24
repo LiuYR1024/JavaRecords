@@ -42,3 +42,4 @@ Learning records about Java
 - OverrideEquals.java：重写equals
 - ExceptionTest.java：throw测试1
 - RandomTest.java：Generate five different random numbers
+- TestRegister.java：Test About Exception
